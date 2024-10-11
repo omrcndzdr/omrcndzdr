@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @omrcndzdr
-- 👀 I’m interested in Cross Platform Programming's language.
-- 🌱 I’m currently learning DART.
+- 👋 Hi, I’m @omrcndzdr.
+- 👀 I’m interested in Game Development with UE5.
+- 🌱 I’m currently learning C++ & BP for Unreal Engine 5.
 - 💞️ I’m looking to collaborate on everyone.
 - 📫 How to reach me just email (omercandizdiar@gmail.com).
 
